@@ -1,0 +1,5 @@
+C:\Users\meriv\OneDrive\Tercer Semestre\c#\tareaApi\RYMApi\RYMApi\obj\Debug\RYMApi.csproj.AssemblyReference.cache
+C:\Users\meriv\OneDrive\Tercer Semestre\c#\tareaApi\RYMApi\RYMApi\obj\Debug\RYMApi.Properties.Resources.resources
+C:\Users\meriv\OneDrive\Tercer Semestre\c#\tareaApi\RYMApi\RYMApi\obj\Debug\RYMApi.Form1.resources
+C:\Users\meriv\OneDrive\Tercer Semestre\c#\tareaApi\RYMApi\RYMApi\obj\Debug\RYMApi.csproj.GenerateResource.cache
+C:\Users\meriv\OneDrive\Tercer Semestre\c#\tareaApi\RYMApi\RYMApi\obj\Debug\RYMApi.csproj.CoreCompileInputs.cache
